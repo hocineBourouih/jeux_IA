@@ -1,5 +1,5 @@
 # jeux_IA
-Deux jeux de stratégie pure,  (Nim et TicTacToe), avec un  algorithme d'intelligence artificielle implémentée
+Deux jeux de stratégie pure (Nim et TicTacToe), avec un  algorithme d'intelligence artificielle implémenté
 
 * Présentation des deux jeux :
 
