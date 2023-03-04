@@ -30,5 +30,10 @@ Test.class et Main.class sont exécutables (noté avec un 'x').
 
 Le dossier lib contient les jars.
 
-Le dossier src contient le source code, il y a également un script bash prenant en parametre un package (nim ou tictactoe),
+Le dossier src contient le source code, il y a également 
+
+- un script .bash est met en place pour pour faciliter l'exécution et la compilation du code
+(ce qui peut être difficile lorsque l'on ne connaît pas l'arborescence du code), 
+vous pouvez également utiliser un IDE tel que Eclipse qui détectera automatiquement 
+le "Main" et se chargera de l'exécution, ceci fonctionne en prenant en parametre un package (nim ou tictactoe),
 compile toute les classes à l'intérieur exécute le Test.class puis le Main.class.
